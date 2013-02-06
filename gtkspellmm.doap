@@ -6,8 +6,7 @@
 
   <name xml:lang="en">gtkspellmm</name>
   <shortdesc xml:lang="en">C++ bindings for the gtkspell library</shortdesc>
-  <homepage rdf:resource="http://www.gtkmm.org/" />
-  <mailing-list rdf:resource="mailto:gtkspell-devel@lists.sourceforge.net" />
+  <homepage rdf:resource="https://github.com/manisandro/gtkspellmm/" />
   <category rdf:resource="http://api.gnome.org/doap-extensions#bindings" />
 
   <maintainer>

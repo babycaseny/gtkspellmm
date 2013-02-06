@@ -19,8 +19,8 @@ m4_define(gtkspellmm_version_minor, 0)
 m4_define(gtkspellmm_version_micro, 0)
 
 AC_INIT([gtkspellmm], [3.gtkspellmm_version_minor.gtkspellmm_version_micro],
-        [http://sourceforge.net/p/gtkspell/bugs/], [gtkspellmm],
-        [http://gtkspell.sourceforge.net/])
+        [https://github.com/manisandro/gtkspellmm/issues], [gtkspellmm],
+        [https://github.com/manisandro/gtkspellmm])
 AC_PREREQ([2.59])
 
 AC_CONFIG_SRCDIR([gtkspell/gtkspellmm.h])
